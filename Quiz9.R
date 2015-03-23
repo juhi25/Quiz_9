@@ -1,4 +1,4 @@
-quizdata = read.csv("quizdata.csv",header=TRUE,sep=",")
+quizdata = read.csv("quizdata.csv")
 quizdata
 str(quizdata)
 
